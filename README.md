@@ -28,6 +28,9 @@ This writes **boxplot_lab.png** next to the script.
 - `boxplot_lab.py` — main script (pure matplotlib + numpy)
 - `README_boxplot_lab.md` — this file
 
+  ## 📷 Output
+![Box_Plot_Lab](boxplot_lab.png)
+
 ## Requirements
 - Python 3.8+
 - `matplotlib`, `numpy`
